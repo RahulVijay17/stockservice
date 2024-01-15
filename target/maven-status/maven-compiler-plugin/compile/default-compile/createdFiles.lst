@@ -1,0 +1,12 @@
+com\laderatech\stockservice\exception\ErrorDetails.class
+com\laderatech\stockservice\controller\StockController.class
+com\laderatech\stockservice\model\Stock.class
+com\laderatech\stockservice\mapper\StockMapper.class
+com\laderatech\stockservice\exception\ResourceNotFoundException.class
+com\laderatech\stockservice\exception\GlobalExceptionHandler.class
+com\laderatech\stockservice\mapperImpl\StockMapperImpl.class
+com\laderatech\stockservice\StockServiceApplication.class
+com\laderatech\stockservice\serviceImpl\StockServiceImpl.class
+com\laderatech\stockservice\vo\StockVo.class
+com\laderatech\stockservice\repository\StockRepository.class
+com\laderatech\stockservice\service\StockService.class
